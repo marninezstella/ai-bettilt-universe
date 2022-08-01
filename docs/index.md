@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AI bettilt Universe
 
 You can use the [editor on GitHub](https://github.com/marninezstella/ai-bettilt-universe/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
