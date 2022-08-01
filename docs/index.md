@@ -2,12 +2,7 @@
 
 First fun ai bettilt universe game!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```Privacy Policy
-**Privacy Policy**
+### **Privacy Policy**
 
 Dmytro Prokopenko built the AI bettilt Universe app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Dmytro Prokopenko at no cost and is intended for use as is.
 
